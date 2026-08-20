@@ -1,0 +1,21 @@
+{
+	"nodes":[
+		{"id":"b8a9ac33532173d3","type":"file","file":"Game_old/Untitled/ProjectFantasy Main Things.md","x":-155,"y":-452,"width":615,"height":612},
+		{"id":"c36a5041cc231743","type":"file","file":"Game_old/Untitled/Gameloop.md","x":720,"y":-346,"width":400,"height":400},
+		{"id":"6a4a79fb1698c70f","type":"file","file":"Game_old/Untitled/Partners(NPC'S).md","x":840,"y":360,"width":400,"height":400},
+		{"id":"72d16933d553d46f","type":"file","file":"Game_old/Untitled/Character.md","x":260,"y":360,"width":400,"height":400},
+		{"id":"674e7d74a49b98c4","type":"file","file":"Game_old/Untitled/World.md","x":-795,"y":280,"width":400,"height":400},
+		{"id":"687a30892b46e0cf","type":"file","file":"Game_old/Untitled/Alchemy.md","x":-795,"y":840,"width":400,"height":400},
+		{"id":"307e81d4b042a37e","type":"file","file":"Game_old/Untitled/Magic.md","x":-1235,"y":840,"width":400,"height":400},
+		{"id":"9e40f6ea6306d7aa","type":"file","file":"Game_old/Untitled/Resources.md","x":-355,"y":840,"width":400,"height":400}
+	],
+	"edges":[
+		{"id":"d6bc9b38c3934753","fromNode":"b8a9ac33532173d3","fromSide":"bottom","toNode":"674e7d74a49b98c4","toSide":"top"},
+		{"id":"df1b91d8470895ed","fromNode":"674e7d74a49b98c4","fromSide":"bottom","toNode":"687a30892b46e0cf","toSide":"top"},
+		{"id":"03ca49ba2a1d5154","fromNode":"674e7d74a49b98c4","fromSide":"bottom","toNode":"307e81d4b042a37e","toSide":"top"},
+		{"id":"09ac000a284ecb58","fromNode":"674e7d74a49b98c4","fromSide":"bottom","toNode":"9e40f6ea6306d7aa","toSide":"top"},
+		{"id":"bab976e5b077d7ac","fromNode":"b8a9ac33532173d3","fromSide":"bottom","toNode":"72d16933d553d46f","toSide":"top"},
+		{"id":"004bf0d88d8d796d","fromNode":"b8a9ac33532173d3","fromSide":"right","toNode":"c36a5041cc231743","toSide":"left"},
+		{"id":"a911a77662c1aea2","fromNode":"b8a9ac33532173d3","fromSide":"bottom","toNode":"6a4a79fb1698c70f","toSide":"top"}
+	]
+}

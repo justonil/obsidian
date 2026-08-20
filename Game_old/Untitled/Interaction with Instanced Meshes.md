@@ -1,0 +1,14 @@
+- To gather tree we cast to instanced mesh
+- HP for trees are holded in Array or TMap
+	- if we interact with tree - we add it in array, assign hp to it
+	- when hp below 0 we delete(?) instanced mesh
+		- (how we want to regenerate tree?)
+			- create new instanced mesh?
+			- create actor instead?
+			- use actors all time?
+		- how we want to spawn trees?
+			- random based on material?
+			- manage it by master control class?
+			- trees are placed on unchangable places?
+			- we can add random to spawn location 
+		

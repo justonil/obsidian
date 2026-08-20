@@ -1,0 +1,6 @@
+- [ ] InventoryComponent
+- [ ] Widget when going near Item that shows name of item and etc.
+- [ ] Items Quality(Rare)
+- [ ] Separated classes Food, Resources, Weapon, Armor etc from ItemBase.
+- [ ] Food - make it grow.
+- [ ] Instance to resource that we can get

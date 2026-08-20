@@ -1,0 +1,2 @@
+Fire,  Fireballs, Firethrow
+Heals 
