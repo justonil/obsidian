@@ -2,3 +2,5 @@
 	- [ ] LogSaveSystem: Warning: Failed to unregister actor - GUID not found: 00000000000000000000000000000000 LogSaveSystem: UGUIDComponent::EndPlay - Actor 'BP_TwoHandedSword_C_0' unregistered with GUID: 00000000000000000000000000000000 (Reason: 0)
 - [ ] lod врагов зависит от сервера
 - [ ] враги не видят клиент игроков
+- [ ] репликация всего оружия
+- [ ] репликация анимаций.
