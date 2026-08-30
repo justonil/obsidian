@@ -13,3 +13,4 @@
 	- [ ] У клиента тоже вызывается сохранения и он сохраняет сам себя
 - [x] атака оружия на клиенте
 	- [x] LogBox3DMelee: Warning: Box3D melee skipped: subsystem missing / not authority / disabled (box3d.Enabled)
+- [ ] пофиксить проджектайлы
