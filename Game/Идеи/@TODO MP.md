@@ -5,10 +5,11 @@
 	- [ ] урон рандомится каждый раз когда подбираешь оружие на клиенте 
 - [ ] репликация анимаций.
 	- [ ] клиент видит анимации сервера
+- [ ] lerp физики передвижения врагов на клиенте(NetUpdateFrequency низкий и мы лерпим на клиенте)
 - [x] фикс мувмент компонента
 - [x] репликация gas компонента
 - [ ] Сохранения
 	- [ ] Сервер вызывает сохранение -> сохраняет всё у себя
 	- [ ] У клиента тоже вызывается сохранения и он сохраняет сам себя
-- [ ] атака оружия на клиенте
-	- [ ] LogBox3DMelee: Warning: Box3D melee skipped: subsystem missing / not authority / disabled (box3d.Enabled)
+- [x] атака оружия на клиенте
+	- [x] LogBox3DMelee: Warning: Box3D melee skipped: subsystem missing / not authority / disabled (box3d.Enabled)
